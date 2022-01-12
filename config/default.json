@@ -1,3 +1,4 @@
 {
-  "mongoURI": "mongodb+srv://vinay123:vinay123@devconnector.rabih.mongodb.net/DevConnector?retryWrites=true&w=majority"
+  "mongoURI": "mongodb+srv://vinay123:vinay123@devconnector.rabih.mongodb.net/DevConnector?retryWrites=true&w=majority",
+  "jwtSecret": "mysecretcode"
 }
